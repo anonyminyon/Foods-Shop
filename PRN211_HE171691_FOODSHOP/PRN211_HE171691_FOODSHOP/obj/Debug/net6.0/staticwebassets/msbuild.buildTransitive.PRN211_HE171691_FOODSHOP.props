@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PRN211_HE171691_FOODSHOP.props" />
+</Project>

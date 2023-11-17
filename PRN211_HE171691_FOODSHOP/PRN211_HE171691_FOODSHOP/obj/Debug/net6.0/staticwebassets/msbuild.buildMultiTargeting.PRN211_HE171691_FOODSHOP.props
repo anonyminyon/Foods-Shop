@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PRN211_HE171691_FOODSHOP.props" />
+</Project>
